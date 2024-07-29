@@ -12,10 +12,10 @@
 
 ## Overview
 
-A new preprocessing algorithm is proposed to generate accurate initial conditions 
+A new preprocessing toolkit is developed to generate accurate initial conditions 
 for particle-method-based CFD simulations with complex geometries. The algorithm is 
 based on the improved Marching Cubes method (MC) with the newly proposed isosurface 
-particle redistribution optimisation.
+particle redistribution optimisations.
 
 ## Features
 
