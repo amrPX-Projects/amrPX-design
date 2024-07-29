@@ -61,7 +61,7 @@ Please see the notices in [NOTICE](NOTICE).
 
 ## License
 
-License for AMReX can be found at [LICENSE](LICENSE).
+License for amrPX-design can be found at [LICENSE](LICENSE).
 
 ## Citation
 
