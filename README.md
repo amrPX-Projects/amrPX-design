@@ -53,11 +53,9 @@ To obtain additional help, simply post an issue.
 
 ## Copyright Notice
 
-Copyright (c) 2024, Ningxia University. All rights reserved.
+Copyright (c) 2024, All rights reserved.
 
 If you have any questions about your rights to use or distribute this tool, please contact the author.
-
-Please see the notices in [NOTICE](NOTICE).
 
 ## License
 
